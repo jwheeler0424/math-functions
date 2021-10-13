@@ -130,6 +130,6 @@ const root = ( num, length = 10 ) => {
     return square;
 }
 
-const num = 495689784512;
+const num = 1024;
 
 console.log(root(num, 10))
